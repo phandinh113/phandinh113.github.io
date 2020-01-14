@@ -1,8 +1,15 @@
 body{
-	font-family: tahoma;
+	font-family: fiolex girl;
 	font-size: 20px;
+	background-image:url(Images/background.jpg);
+	text-align: center;
 }
 h2{
 	text-align: center;
 	color: red;
+
+}
+img {
+	height: 200px;
+	width: 280px;
 }
